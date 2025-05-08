@@ -1,12 +1,12 @@
-<img src="https://i.makeagif.com/media/4-07-2021/huzntj.gif" style="height: 100% , width:100%">
-<h1 align="center">Hi 👋, I'm Matias Carballo</h1>
-<h3 align="center">I'm a Senior at CCCSP (Colegio Científico Costarricense sede San Pedro). I have interests in programming and robotics, currently working in WRO robomission Senior category 2025 .</h3>
+<img src="https://pin.it/7dn6jCYgC" style="height: 100% , width:100%">
+<h1 align="center">Hi 👋, Ich bin Matias Carballo Freut Mich!</h1>
+<h3 align="center">I'm a Senior at CCCSP (Colegio Científico Costarricense sede San Pedro). I have interests in racing and soccer .</h3>
 
 ---
 
 - 🔭 I’m currently working on [CCCSP]()
 
-- 🌱 I’m currently learning *Python/programming*
+- 🌱 I’m currently learning *Germany*
 
 - 📫 How to reach me *matiascarballo05gmail.com*
 
