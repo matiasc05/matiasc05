@@ -1,6 +1,5 @@
-<img src="https://i.pinimg.com/736x/e8/4c/b7/e84cb764831158b7058baed5a5c5b94f.jpg"![Uploading image.png…]()
-" style="height: 100% , width:100%">
-<h1 align="center">Hi 👋, I'm Jacky Yin Lu</h1>
+<img src="https://i.makeagif.com/media/4-07-2021/huzntj.gif" style="height: 100% , width:100%">
+<h1 align="center">Hi 👋, I'm Matias Carballo</h1>
 <h3 align="center">I'm a Senior at CCCSP (Colegio Científico Costarricense sede San Pedro). I have interests in programming and robotics, currently working in WRO robomission Senior category 2025 .</h3>
 
 ---
@@ -9,7 +8,7 @@
 
 - 🌱 I’m currently learning *Python/programming*
 
-- 📫 How to reach me *jackyjiejieyinlu@gmail.com*
+- 📫 How to reach me *matiascarballo05gmail.com*
 
 ---
 
