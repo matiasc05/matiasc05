@@ -26,8 +26,8 @@
 
 <h1 align="center">STATS</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Matiascs05" alt="ravisolanki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=matiasc05" alt="ravisolanki" /> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Matiascs05&theme=gotham&show_icons=true" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiasc05&theme=gotham&show_icons=true" />
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Matiascs05&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=matiasc05&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
