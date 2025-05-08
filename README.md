@@ -1,6 +1,6 @@
 <img src="https://pin.it/7dn6jCYgC" style="height: 100% , width:100%">
 <h1 align="center">Hi 👋, Ich bin Matias Carballo Freut Mich!</h1>
-<h3 align="center">I'm a Senior at CCCSP (Colegio Científico Costarricense sede San Pedro). I have interests in racing and soccer .</h3>
+<h3 align="center">I'm a Senior at CCCSP. I have interests in racing and soccer .</h3>
 
 ---
 
@@ -26,8 +26,8 @@
 
 <h1 align="center">STATS</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jyin28" alt="ravisolanki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Matiascs05" alt="ravisolanki" /> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jyin28&theme=gotham&show_icons=true" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Matiascs05&theme=gotham&show_icons=true" />
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Jyin28&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Matiascs05&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
