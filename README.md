@@ -1,5 +1,5 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fview%2Fgoofy-ahh-gif-25691721&psig=AOvVaw3aTsomHTGwc4Am7fI-TUaN&ust=1746819344638000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjD0KfPlI0DFQAAAAAdAAAAABAJ" style="height: 100% , width:100%">
-<h1 align="center">Hi 👋, Ich bin Matias Carballo Freut Mich!</h1>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fview%2Fgoofy-ahh-gif-27610366&psig=AOvVaw3aTsomHTGwc4Am7fI-TUaN&ust=1746819344638000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjD0KfPlI0DFQAAAAAdAAAAABAR" style="height: 100% , width:100%">
+<h1 align="center"> Ich bin Matias Carballo Freut Mich!</h1>
 <h3 align="center">I'm a Senior at CCCSP. I have interests in racing and soccer .</h3>
 
 ---
